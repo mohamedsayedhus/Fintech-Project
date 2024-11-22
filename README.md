@@ -1,7 +1,7 @@
 # Project Summary and Objectives
 Project Name: Merchant Performance Analysis and Operations Improvement Using SQL
 Project Description:
-This project leverages SQL to analyze merchant performance, optimize operations, and identify growth opportunities within the dataset. It utilizes various SQL techniques, including Common Table Expressions (CTEs), window functions, aggregations, and joins, to extract meaningful insights from sales, orders, and merchant data. The analysis is tailored for a B2B environment, aligning with the operational needs of companies like MaxAB.
+This project leverages SQL to analyze merchant performance, optimize operations, and identify growth opportunities within the dataset. It utilizes various SQL techniques, including Common Table Expressions (CTEs), window functions, aggregations, and joins, to extract meaningful insights from sales, orders, and merchant data. The analysis is tailored for a B2B environment, aligning with the operational needs of companies.
 
 # Objectives:
 Analyze Revenue and Sales Trends:
